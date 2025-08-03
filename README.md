@@ -3,7 +3,7 @@
 Virtual machines are based on computer architectures and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination. A virtual machine is hardware or software that enables one computer system (called the host) to behave like another computer system (called the guest). A virtual machine typically enables the host system to run software or use peripheral devices designed for the guest system.
 
 # PTSource MiniVM
-### Current version 7 updated 19/07/2025 for Windows
+### Current version 7 updated 03/08/2025 for Windows
 #### [![ko-fi](/images/ko-fi.png)](https://ko-fi.com/ptsource) For updates and change logs.
 
 PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PTSource MiniVM is designed to run cointained virtual machine legacy operating systems in the latest Windows versions. MiniVM provides advanced features such as support for multiuser applications, printing to PDF printers, tighter integration with Windows, enhanced keyboard, mouse and display support, transparent web and network access, minimal and compact code and real hardware emulation.
