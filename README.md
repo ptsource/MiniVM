@@ -74,6 +74,32 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * Windows NT 4 Enterprise Server SP3
 * BackOffice Server 4.0
 * OS/2 Warp 4
+* BeOS 5 Personal Edition
+* Coherent Unix 4.2.10
+* BasicLinux 3.50
+* Slackware 3.5
+* Slackware 4.0
+* Slackware 7.1
+* Slackware 8.0
+* Slackware 9.0
+* FreeBSD 3.1
+* Red Hat Linux 5.2
+* Red Hat Linux 6.0
+* Red Hat Linux 6.1
+* Red Hat Linux 8.0
+* Corel Linux 1.2
+* Linux Mandrake 5.3
+* Linux Mandrake 6.1
+* Linux Mandrake 8.0
+* Debian 5.0
+* Feather Linux 0.7.5
+* SuSE Linux 6.3
+* SuSE Linux 7.0 Personal
+* SuSE Linux 7.0 Professional
+* Puppy Linux 3.01 Retro
+* United Linux 1.0
+* Turbo Linux 6.0.2
+* SvarDOS 20250427
 
 ## Support
 
