@@ -15,7 +15,8 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 ## Download
 
  [![Maintenance](/images/maintained.svg)](https://wiki.ptsource.eu/soft/ptminivm/start) [![You can download here.](/images/version-7-red.svg)](https://wiki.ptsource.eu/files_windows) [![You can download here.](/images/download-here-green.svg)](https://wiki.ptsource.eu/files_windows) [![Help here.](/images/docs-here-blue.svg)](https://wiki.ptsource.eu/soft/ptminivm/start)
-
+ 
+## Screenshots
 <img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM01B.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM02B.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM03B.PNG" width="33%">
 <img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM04B.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM05B.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM06B.PNG" width="33%">
 
