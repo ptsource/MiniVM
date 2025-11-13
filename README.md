@@ -31,3 +31,18 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * 3 Hard Drives (RAW Disk Image format)
 * 1 CDROM Drive (ISO Files)
 * 2 2.88 Mb Floppy Drives (IMG, IMA, FDI Files)
+
+  
+  ## Features 
+
+* [PTSource MiniVMDOS](https://wiki.ptsource.eu/soft/mvmdos/start) included
+* Network support and multiuser environment
+* Printing text to Windows printers
+* Transparent web and network access
+* Does NOT need BIOS virtualization in the host machine
+* PTSource Imager hard drive image creator included
+* PTSource Image Converter hard drive image converter included
+* PTSource ISO Creator ISO file creator included
+* PTSource Printer manager for host included
+* PTSource Image Mounter in host system included
+* PTSource Rawrite floppy boot images included
