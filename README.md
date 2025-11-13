@@ -66,3 +66,15 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * Windows 3.1
 * Windows 3.11
 * Windows for Workgroups 3.11
+* Windows NT 3.51 Workstation
+* Windows 95
+* Windows 98 SE (with 98Lite)
+* Windows NT 4 Workstation SP3
+* Windows NT 4 Server SP3
+* Windows NT 4 Enterprise Server SP3
+* BackOffice Server 4.0
+* OS/2 Warp 4
+
+## Support
+
+[![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/soft/ptminivm/start)
