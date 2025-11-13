@@ -53,7 +53,7 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * DR-DOS 6.0
 * DR-DOS 7.0.1
 * DR-DOS 7.0.2
-* DR-DOS 7.0.3
+* [DR-DOS 7.0.3](https://www.youtube.com/watch?v=zcux2lKr9NA)
 * DR-DOS 8.0
 * IBM PC-DOS 6.1.0
 * IBM PC-DOS 6.3.0
@@ -70,7 +70,7 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * Windows 98 SE (with 98Lite)
 * Windows NT 4 Workstation SP3
 * Windows NT 4 Server SP3
-* Windows NT 4 Enterprise Server SP3
+* [Windows NT 4 Enterprise Server SP3](https://www.youtube.com/watch?v=r6G1f0_w0mE)
 * BackOffice Server 4.0
 * OS/2 Warp 4
 * BeOS 5 Personal Edition
@@ -82,13 +82,13 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * Slackware 8.0
 * Slackware 9.0
 * FreeBSD 3.1
-* Red Hat Linux 5.2
+* [Red Hat Linux 5.2](https://www.youtube.com/watch?v=1_VyeTaV3tQ)
 * Red Hat Linux 6.0
 * Red Hat Linux 6.1
 * Red Hat Linux 8.0
 * Corel Linux 1.2
-* Linux Mandrake 5.3
-* Linux Mandrake 6.1
+* [Linux Mandrake 5.3](https://www.youtube.com/watch?v=oJepMIUbU5c)
+* [Linux Mandrake 6.1](https://www.youtube.com/watch?v=24qZKY5KJew)
 * Linux Mandrake 8.0
 * Debian 5.0
 * Feather Linux 0.7.5
