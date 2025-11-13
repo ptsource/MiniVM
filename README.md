@@ -33,17 +33,35 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * 1 CDROM Drive (ISO Files)
 * 2 2.88 Mb Floppy Drives (IMG, IMA, FDI Files)
 
-  
-  ## Features 
+## Features 
 
 * [PTSource MiniVMDOS](https://wiki.ptsource.eu/soft/mvmdos/start) included
 * Network support and multiuser environment
 * Printing text to Windows printers
 * Transparent web and network access
 * Does NOT need BIOS virtualization in the host machine
-* PTSource Imager hard drive image creator included
-* PTSource Image Converter hard drive image converter included
-* PTSource ISO Creator ISO file creator included
-* PTSource Printer manager for host included
-* PTSource Image Mounter in host system included
-* PTSource Rawrite floppy boot images included
+* [PTSource Imager](https://store.ptsource.eu/soft/ptminivm/utilities#ptimager) hard drive image creator included
+* [PTSource Image Converter](https://store.ptsource.eu/soft/ptminivm/utilities#ptimgconverter) hard drive image converter included
+* [PTSource ISO Creator](https://store.ptsource.eu/soft/ptminivm/utilities#ptisocreator) ISO file creator included
+* [PTSource Printer](https://store.ptsource.eu/soft/ptminivm/utilities#ptprinter) manager for host included
+* [PTSource Image Mounter](https://store.ptsource.eu/soft/ptminivm/utilities#ptimgmount) in host system included
+* [PTSource Rawrite](https://store.ptsource.eu/soft/ptminivm/utilities#ptrawrite) floppy boot images included
+
+## Tested Operating Systems
+
+* CP/M-86 1.1
+* MS-DOS 6.22
+* DR-DOS 6.0
+* DR-DOS 7.0.1
+* DR-DOS 7.0.2
+* DR-DOS 7.0.3
+* DR-DOS 8.0
+* IBM PC-DOS 6.1.0
+* IBM PC-DOS 6.3.0
+* IBM PC-DOS 7.0
+* PTS-DOS 2000
+* PTS-DOS 32
+* ROM-DOS 7.10
+* Real/32 DOS 7.94
+* Windows 3.1
+* Windows for Workgroups 3.11
