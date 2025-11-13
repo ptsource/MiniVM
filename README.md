@@ -18,3 +18,16 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 
 <img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM01B.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM02B.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM03B.PNG" width="33%">
 <img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM04B.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM05B.PNG" width="33%"><img src="https://raw.githubusercontent.com/ptsource/MiniVM/master/images/MVM06B.PNG" width="33%">
+
+## PTSource MiniVM Emulated Hardware
+
+* Intel Pentium MMX Processor at 580 MHz
+* 64Mb SDRAM (default) 128Mb SDRAM (using the --extramem switch)
+* S3 ViRGE graphics chipset
+* Network support and multiuser environment
+* Serial Mouse
+* Sound Blaster 16 Sound Card
+* Ne2000 Network Card
+* 3 Hard Drives (RAW Disk Image format)
+* 1 CDROM Drive (ISO Files)
+* 2 2.88 Mb Floppy Drives (IMG, IMA, FDI Files)
