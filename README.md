@@ -64,4 +64,5 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * ROM-DOS 7.10
 * Real/32 DOS 7.94
 * Windows 3.1
+* Windows 3.11
 * Windows for Workgroups 3.11
