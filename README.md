@@ -35,6 +35,7 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 ## Features 
 
 * [PTSource MiniVMDOS](https://wiki.ptsource.eu/soft/mvmdos/start) included
+* [Driver database](https://store.ptsource.eu/soft/ptminivm/drivers) continually updated and avalible. 
 * Network support and multiuser environment
 * Printing text to Windows printers
 * Transparent web and network access
