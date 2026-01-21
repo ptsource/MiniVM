@@ -101,6 +101,6 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * Turbo Linux 6.0.2
 * SvarDOS 20250427
 
-## Support
+## Homepage
 
 [![Visit homepage.](/images/homepage-here-yellowgreen.svg)](https://wiki.ptsource.eu/soft/ptminivm/start)
