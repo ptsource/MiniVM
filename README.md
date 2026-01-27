@@ -4,7 +4,7 @@ Virtual machines are based on computer architectures and provide functionality o
 
 # PTSource MiniVM
 ### Current version 7 Final for Windows
-#### [![ko-fi](/images/ko-fi.png)](https://ko-fi.com/ptsource) For updates and change logs.
+#### [![ko-fi](/images/ko-fi.png)](https://ko-fi.com/ptsource) For updates, change logs or to buy us a coffee.
 
 PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PTSource MiniVM is designed to run cointained virtual machine legacy operating systems (mid 70s to mid 90s) in the latest Windows versions. MiniVM provides advanced features such as support for multiuser applications, printing to PDF printers, tighter integration with Windows, enhanced keyboard, mouse and display support, transparent web and network access, minimal and compact code and real hardware emulation.
 
