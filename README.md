@@ -24,7 +24,7 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 
 * Intel Pentium MMX Processor at 580 MHz
 * 64Mb SDRAM (default) 128Mb SDRAM (using the --extramem switch)
-* S3 ViRGE graphics chipset
+* S3 ViRGE graphics chipset (4Mb 60hz)
 * Serial Mouse
 * Sound Blaster 16 Sound Card
 * Ne2000 Network Card
