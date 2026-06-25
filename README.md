@@ -99,7 +99,6 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * Puppy Linux 3.01 Retro
 * United Linux 1.0
 * Turbo Linux 6.0.2
-* Dragon Linux v2r2
 * SvarDOS 20250427
 
 ## Homepage
