@@ -73,6 +73,7 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * Windows NT 4 Server SP3
 * [Windows NT 4 Enterprise Server SP3](https://www.youtube.com/watch?v=r6G1f0_w0mE)
 * BackOffice Server 4.0
+* OS/2 Warp 3
 * OS/2 Warp 4
 * BeOS 5 Personal Edition
 * Coherent Unix 4.2.10
