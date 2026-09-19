@@ -83,8 +83,9 @@ PTSource MiniVM is a general purpose virtual machine for Windows x86 and x64. PT
 * Slackware 7.1
 * Slackware 8.0
 * Slackware 9.0
-* SystemRescueCD 0.2.18
 * FreeBSD 3.1
+* FreeBSD 4.0
+* FreeBSD 5.0
 * [Red Hat Linux 5.2](https://www.youtube.com/watch?v=1_VyeTaV3tQ)
 * Red Hat Linux 6.0
 * Red Hat Linux 6.1
